@@ -1,0 +1,17 @@
+
+body {
+background-color:aliceblue;
+color:black;
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+}
+
+.odintitle {
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.recipelinks {
+    font-style:oblique
+}

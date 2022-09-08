@@ -1,0 +1,68 @@
+body {
+background-color:aliceblue;   
+}
+
+.chickendescription {
+    font-size: 25px;
+}
+
+.chickenheading {
+    background-color: yellow;
+    font-style: italic; 
+}
+
+.chickendirections {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.chickeningredients {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.chickenprep {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.zucchinititle {
+    font-style: italic;
+    background-color: aqua;
+}
+
+.zucingredients {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.zucdirections {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.zucnutrition {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.porkheading {
+    font-style: italic;
+    background-color: palevioletred;
+}
+
+.porknutrition {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.porkingredients {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.porkdirections {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
