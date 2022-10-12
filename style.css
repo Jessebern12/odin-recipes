@@ -1,7 +1,7 @@
 
 body {
-background-color:aliceblue;
-color:black;
+background-color:aliceblue(27, 18, 156);
+color:red;
 font-family: 'Times New Roman', Times, serif;
 font-size: 30px;
 }
@@ -13,5 +13,12 @@ font-size: 30px;
 }
 
 .recipelinks {
-    font-style:oblique
+    font-style:oblique;
+    border-color: black;
+    border-style: solid;
+
+}
+
+li {
+    width: 500px;
 }

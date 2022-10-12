@@ -1,5 +1,5 @@
 body {
-background-color:aliceblue;   
+background-color:aliceblue(10, 40, 207);   
 }
 
 .chickendescription {
@@ -49,7 +49,7 @@ background-color:aliceblue;
 
 .porkheading {
     font-style: italic;
-    background-color: palevioletred;
+    background-color: rgb(193, 216, 112);
 }
 
 .porknutrition {
@@ -65,4 +65,15 @@ background-color:aliceblue;
 .porkdirections {
     font-size: large;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    border-color: black;
+    border-style: solid;
+    width: 700px;
+}
+
+ol {
+    border-color: black;
+    border-style: solid;
 }
